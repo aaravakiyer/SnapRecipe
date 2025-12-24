@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Item for the Camera Fragment -->
+    <item
+        android:id="@+id/nav_camera"
+        android:icon="@drawable/ic_camera"
+        android:title="Camera" />
+
+    <!-- Item for the Ingredients Fragment -->
+    <item
+        android:id="@+id/nav_ingredients"
+        android:icon="@drawable/ic_ingredients"
+        android:title="Ingredients" />
+
+    <!-- Item for the Recipes Fragment -->
+    <item
+        android:id="@+id/nav_recipes"
+        android:icon="@drawable/ic_recipes"
+        android:title="Recipes" />
+
+    <!-- Item for the CO2 Dashboard Fragment -->
+    <item
+        android:id="@+id/nav_co2"
+        android:icon="@drawable/ic_co2"
+        android:title="CO₂ Saved" />
+
+</menu>
